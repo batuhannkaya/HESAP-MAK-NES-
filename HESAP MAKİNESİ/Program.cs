@@ -18,7 +18,7 @@ namespace HESAP_MAKİNESİ
 
                 Console.WriteLine("\n Toplama İşlemi İçin +\n Çıkarma İşlemi İçin -\n Çarpma İşlemi İçin *\n Bölme İşlemi İçin / ");
                 Console.Write(" Yapmak İstediğiniz İşlemi Seçin : ");
-                string secim=Console.ReadLine();
+                string secim = Console.ReadLine();
 
                 Console.Write("1.Değeri Girin :");
                 int sayi1 = Convert.ToInt16(Console.ReadLine());
