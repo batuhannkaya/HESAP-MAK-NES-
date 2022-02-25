@@ -6,6 +6,12 @@ namespace HESAP_MAKİNESİ
     {
         static void Main(string[] args)
         {
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.ForegroundColor = ConsoleColor.Black;
+           
+
+
+
             char cikis;
             char secimChar;
 
